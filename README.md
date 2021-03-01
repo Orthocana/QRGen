@@ -1,17 +1,5 @@
-<img alt="Special, thus awesome." src="art/banner_v3.png">
 
-[![](https://jitpack.io/v/SumiMakito/AwesomeQRCode.svg)](https://jitpack.io/#SumiMakito/AwesomeQRCode)
-[![release](https://img.shields.io/github/release/SumiMakito/AwesomeQRCode.svg)](https://github.com/SumiMakito/AwesomeQRCode/releases/latest)
-[![license](https://img.shields.io/github/license/SumiMakito/AwesomeQRCode.svg)](https://github.com/SumiMakito/AwesomeQRCode/blob/master/LICENSE)
-![](https://img.shields.io/badge/made%20with-cappuccino-orange.svg)
-
-Awesome QR code - An awesome QR code generator for Android.
-
-## Yay! Available on Google Play!
-
-*With the Awesome QR app, you can play with these options like a master!*
-
-<a href="https://play.google.com/store/apps/details?id=com.github.sumimakito.awesomeqrsample" target="_blank"><img src="art/play_store_badge.png" alt="Google Play Store" width="200"></a>
+QRGen - QR Generator
 
 ## Showcase
 
@@ -281,63 +269,3 @@ try {
 #### Version 1.0.0
 
 - Initial release.
-
-## Alternatives
-
-#### Awesome-qr.js written in JavaScript
-
-Redirect to [Awesome-qr.js](https://github.com/SumiMakito/Awesome-qr.js)
-
-#### EFQRCode written in Swift
-
-EFQRCode is a tool to generate QRCode image or recognize QRCode from image, in Swift.
-
-Awesome QR code is inspired by [EFQRCode by EyreFree](https://github.com/EyreFree/EFQRCode).
-
-If your application is in need of generating pretty QR codes in Swift, take a look at EFQRCode. It should help.
-
-## Donation
-
-If you think Awesome QR code is awesome, would you like to buy me a cup of cappuccino?
-
-- [PayPal](https://www.paypal.me/makito)
-- [Alipay](https://qr.alipay.com/a6x02021re1jk4ftcymlw79)
-
-## Sponsors
-
-It is those generous sponsors who supports this project makes the Awesome-qr.js more awesome!
-
-I'd like to express my sincere appreciation to all the generous sponsors.
-
-- [Coxxs](https://coxxs.me/)
-
-## Special thanks
-
-- [Megabits](https://github.com/megabitsenmzq) (Banner art work)
-
-## Copyright &amp; License
-
-<img alt="Apache-2.0 license" src="art/apache_feather.svg" width="64">
-
-Awesome QR code is available under the Apache-2.0 license. See the LICENSE file for more info.
-
-Copyright &copy; 2017-2018 Makito.
-
-## Exclusive Distributor Agreement
-
-By including, importing, modifying, redistributing, or using this library, you acknowledge and agree that you have read and accept the terms of this Exclusive Distributor Agreement.
-
-**WHILE REDISTRIBUTING THIS LIBRARY, THIS AGREEMENT SHALL ALSO BE ATTACHED WITH THE APACHE-2.0 LICENSE.**
-
-You're **FREE** to:
-
-- Use Awesome QR code in your projects (commercial projects are okay as well).
-
-+ Modify the code according to your needs.
-+ Redistribute the modified code under the Exclusive Distributor Agreement and the Apache-2.0 license.
-
-You're **FORBIDDEN** to:
-
-+ Make Awesome QR code the **main** or the **only** feature of your applications.
-+ Treat the **whole or part** of Awesome QR code as a paid function. 
-+ Make a demo or sample application for Awesome QR code and submit the application to the store (IBNLT Google Play Store, etc.).
